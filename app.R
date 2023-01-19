@@ -1,4 +1,4 @@
-#Katarzyna Borkowska WCY20IJ2S1
+#Katarzyna Borkowska
 library(shiny)
 library(shinydashboard)
 library(ggplot2)
